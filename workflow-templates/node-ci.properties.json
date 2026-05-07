@@ -1,0 +1,6 @@
+{
+  "name": "Node.js CI (self-hosted)",
+  "description": "Test Node.js project on hp-ubuntu self-hosted runner",
+  "iconName": "octicon-gear",
+  "categories": ["JavaScript", "Continuous Integration"]
+}

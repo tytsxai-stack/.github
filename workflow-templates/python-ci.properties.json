@@ -1,0 +1,6 @@
+{
+  "name": "Python CI (self-hosted)",
+  "description": "Test Python project on hp-ubuntu self-hosted runner",
+  "iconName": "octicon-gear",
+  "categories": ["Python", "Continuous Integration"]
+}
